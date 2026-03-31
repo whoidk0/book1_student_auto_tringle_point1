@@ -1,0 +1,16 @@
+C:\Users\Asus\source\repos\tringle\tringle\bin\Debug\net8.0-windows\tringle.exe
+C:\Users\Asus\source\repos\tringle\tringle\bin\Debug\net8.0-windows\tringle.deps.json
+C:\Users\Asus\source\repos\tringle\tringle\bin\Debug\net8.0-windows\tringle.runtimeconfig.json
+C:\Users\Asus\source\repos\tringle\tringle\bin\Debug\net8.0-windows\tringle.dll
+C:\Users\Asus\source\repos\tringle\tringle\bin\Debug\net8.0-windows\tringle.pdb
+C:\Users\Asus\source\repos\tringle\tringle\obj\Debug\net8.0-windows\tringle.Form1.resources
+C:\Users\Asus\source\repos\tringle\tringle\obj\Debug\net8.0-windows\tringle.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\tringle\tringle\obj\Debug\net8.0-windows\tringle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\tringle\tringle\obj\Debug\net8.0-windows\tringle.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\tringle\tringle\obj\Debug\net8.0-windows\tringle.AssemblyInfo.cs
+C:\Users\Asus\source\repos\tringle\tringle\obj\Debug\net8.0-windows\tringle.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\tringle\tringle\obj\Debug\net8.0-windows\tringle.dll
+C:\Users\Asus\source\repos\tringle\tringle\obj\Debug\net8.0-windows\refint\tringle.dll
+C:\Users\Asus\source\repos\tringle\tringle\obj\Debug\net8.0-windows\tringle.pdb
+C:\Users\Asus\source\repos\tringle\tringle\obj\Debug\net8.0-windows\tringle.genruntimeconfig.cache
+C:\Users\Asus\source\repos\tringle\tringle\obj\Debug\net8.0-windows\ref\tringle.dll
