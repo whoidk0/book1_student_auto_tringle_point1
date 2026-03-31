@@ -1,0 +1,16 @@
+C:\Users\Asus\source\repos\book1\book1\bin\Debug\net8.0-windows\book1.exe
+C:\Users\Asus\source\repos\book1\book1\bin\Debug\net8.0-windows\book1.deps.json
+C:\Users\Asus\source\repos\book1\book1\bin\Debug\net8.0-windows\book1.runtimeconfig.json
+C:\Users\Asus\source\repos\book1\book1\bin\Debug\net8.0-windows\book1.dll
+C:\Users\Asus\source\repos\book1\book1\bin\Debug\net8.0-windows\book1.pdb
+C:\Users\Asus\source\repos\book1\book1\obj\Debug\net8.0-windows\book1.Form1.resources
+C:\Users\Asus\source\repos\book1\book1\obj\Debug\net8.0-windows\book1.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\book1\book1\obj\Debug\net8.0-windows\book1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\book1\book1\obj\Debug\net8.0-windows\book1.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\book1\book1\obj\Debug\net8.0-windows\book1.AssemblyInfo.cs
+C:\Users\Asus\source\repos\book1\book1\obj\Debug\net8.0-windows\book1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\book1\book1\obj\Debug\net8.0-windows\book1.dll
+C:\Users\Asus\source\repos\book1\book1\obj\Debug\net8.0-windows\refint\book1.dll
+C:\Users\Asus\source\repos\book1\book1\obj\Debug\net8.0-windows\book1.pdb
+C:\Users\Asus\source\repos\book1\book1\obj\Debug\net8.0-windows\book1.genruntimeconfig.cache
+C:\Users\Asus\source\repos\book1\book1\obj\Debug\net8.0-windows\ref\book1.dll
